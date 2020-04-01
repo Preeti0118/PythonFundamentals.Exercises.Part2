@@ -1,8 +1,10 @@
 # Exercise 2
-def greet(name):
+
+
+def greet(name2):
     """Print Greetings with name"""
 
-    print("Hello " + name)
+    print("Hello " + name2)
 
 
 def name_input():
@@ -12,4 +14,8 @@ def name_input():
 
 name1 = name_input()
 greet(name1)
+
+
+
+
 
